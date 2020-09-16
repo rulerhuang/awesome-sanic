@@ -46,6 +46,7 @@
 - [Sanic-Devtools](https://github.com/yunstanford/sanic-devtools): Dev tools for Sanic.
 
 ### Frontend
+- [sanja](https://github.com/tomaszdrozdz/sanja): This module aims to make bringing Jinja templates to Sanic easy.  
 - [Jinja2-sanic](https://github.com/yunstanford/jinja2-sanic): a jinja2 template renderer for Sanic.
 - [Sanic-Babel](https://github.com/lixxu/sanic-babel): Adds i18n/l10n support to Sanic applications with the help of the `Babel` library
 - [Sanic-CORS](https://github.com/ashleysommer/sanic-cors): A port of flask-cors.
@@ -94,6 +95,8 @@
 - [Sanic-Dispatch](https://github.com/ashleysommer/sanic-dispatcher): A dispatcher inspired by `DispatcherMiddleware` in werkzeug. Can act as a Sanic-to-WSGI adapter.
 - [Sanic-EnvConfig](https://github.com/jamesstidard/sanic-envconfig): Pull environment variables into your sanic config.
 - [sanic-sse](https://github.com/inn0kenty/sanic_sse): [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events) implementation for Sanic.
+- [Sanic-CamelCase-Middleware](https://ahmednafies.github.io/sanic_camelcase_middleware/): Middleware for camelizing request and response bodies for sanic. 
+- [Sanic-Pydantic](https://ahmednafies.github.io/sanic-pydantic/): A library for parsing and validating http requests for sanic web-framework using pydantic library.
 
 ## Resources
 
